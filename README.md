@@ -1,2 +1,2 @@
-# episteme
-A classical serif typeface
+# Episteme
+A classical serif typeface by David Golding
